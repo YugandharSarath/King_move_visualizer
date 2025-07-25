@@ -1,1 +1,1 @@
-# queen-moves-visualizer-
+# King-moves-visualizer-
