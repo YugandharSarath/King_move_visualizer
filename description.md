@@ -1,6 +1,3 @@
-You're right! Let's add a clearly separated **"⚠️ Edge Cases & Constraints"** section — aligned with your updated Pawn and Bishop prompts.
-
-Here’s the **final improved version** of your **Queen Move Visualizer prompt**, now including **constraints**, cleaner structure, and no inline code snippets (as per Himanshi’s feedback):
 
 ---
 
